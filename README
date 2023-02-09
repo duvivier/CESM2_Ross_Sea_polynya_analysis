@@ -6,4 +6,8 @@ how polynyas in the Ross Sea change in the future using CESM2-LE data and machin
 This repository has the scripts necessary for creating figures, training the self organizing
 map, pulling data from the CESM2-LE, etc.
 
-
+Previous and current CESM versions are freely available online at the CESM2 website: 
+https://www.cesm.ucar.edu/models/cesm2/
+The CESM2-LE data used in this study are freely available the CESM2-LE website:
+https://www.cesm.ucar.edu/projects/community-projects/LENS2/
+Rodgers et al. 2021. https://doi.org/10.5194/esd-12-1393-2021
