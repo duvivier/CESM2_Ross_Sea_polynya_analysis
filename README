@@ -1,7 +1,10 @@
-February 2023
+December 2023
 
-Scripts and analysis used for manuscript submission to Climate Dynamics investigating
+Scripts and analysis used for manuscript published in Climate Dynamics investigating
 how polynyas in the Ross Sea change in the future using CESM2-LE data and machine learning.
+DuVivier et al. "Projections of winter polynyas and their biophysical impacts in the Ross
+Sea Antarctica." Climate Dynamics (2023). https://doi.org/10.1007/s00382-023-06951-z
+
 
 This repository has the scripts necessary for creating figures, training the self organizing
 map, pulling data from the CESM2-LE, etc.
